@@ -25,6 +25,6 @@ Each of the conditions contain their own **Expt.py** scripts to be run in Psycho
 
 ##  Roles
 * **Julian Oks**(@julianoks)- implemented distractor frame generation in **distractors.py**.
-* **Kirsten Stewart**- ran participant sessions, carried out documentation and managed the experiment by coming up with conditions for participant sessions.
+* **Kirsten Lydic**(kol16@hampshire.edu)- ran participant sessions, carried out documentation and managed the experiment by coming up with conditions for participant sessions.
 * **Tapojit Debnath Tapu**- implemented distractor frame display pipeline using PsychoPy. The pipeline codebase is available in **Expt.py**.
 * **Ethan Meyers**- Faculty advisor for this study.
